@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "astro": "^2.3.0"
+  },
+  "name": "emanuelzm",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "astro dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelzm/emanuelzm.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelzm/emanuelzm.github.io/issues"
+  },
+  "homepage": "https://github.com/emanuelzm/emanuelzm.github.io#readme"
+}
